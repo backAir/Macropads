@@ -7,6 +7,7 @@ Macropads made by yours trully
 
 ## Info
 This macropad runs vial-qmk and has nkrl
+source code for the macropad is available [HERE](https://github.com/backAir/vial-qmk/tree/vial/keyboards/bair/mecropad10x10)
 
 
 # What to buy ? 
