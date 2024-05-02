@@ -7,6 +7,9 @@ Macropads made by yours trully
 
 ## Info
 This macropad runs vial-qmk and has nkrl
+
+if you want a PCB without the diodes you can either modify the PCB file or contact me
+
 source code for the macropad is available [HERE](https://github.com/backAir/vial-qmk/tree/vial/keyboards/bair/mecropad10x10)
 
 
