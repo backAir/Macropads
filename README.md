@@ -1,4 +1,3 @@
-![image](https://github.com/backAir/Macropads/assets/72553201/2048e91f-50eb-488d-8357-511b12366717)# Macropads
 Macropads made by yours trully
 
 
