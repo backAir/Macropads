@@ -20,7 +20,6 @@ Those are aliexpress links but ofc you can just buy it somewhere else:
 RP2040-Zero (VERY IMPORTANT: The version where the pins aren't soldered yet) : [RP2040-Zero](https://aliexpress.com/item/1005006031224378.html)
 
 
-
 4x 8mm flat head M2 screws
 3x 5mm flat head M2 screws
 7x M2 nuts (the hexagon shaped ones)
@@ -36,10 +35,12 @@ make sure to flash the RP2040 before soldering it since it'll be hard to access 
 
 RP2040 wiring: 
 
-![Cuty Pad wiring reference](wiring.webp)
+
 
 Colums (from left to right when the keyboard is facing up with the usb port up): GP27, GP13 , GP2, GP1
+
 Rows (from up to down): GP0,GP3,GP4
 
+![Cuty Pad wiring reference](wiring.webp)
 
 enjoy!
