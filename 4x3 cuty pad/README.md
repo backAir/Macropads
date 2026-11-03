@@ -26,6 +26,9 @@ RP2040-Zero (VERY IMPORTANT: The version where the pins aren't soldered yet) : [
 [screws & nuts](https://aliexpress.com/item/1005006419301367.html)
 
 
+Redragon low profile switches [link](https://nl.aliexpress.com/item/1005005895710498.html)
+
+
 ## Guide
 download the stl for the case and plate
 
