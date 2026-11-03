@@ -38,11 +38,11 @@ make sure to flash the RP2040 before soldering it since it'll be hard to access 
 
 RP2040 wiring: 
 
-
-
 Colums (from left to right when the keyboard is facing up with the usb port up): GP27, GP13 , GP2, GP1
 
 Rows (from up to down): GP0,GP3,GP4
+
+Before screwing in the screws insert an M2 nut in the slot that goes under it's hole
 
 ![Cuty Pad wiring reference](wiring.webp)
 
