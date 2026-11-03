@@ -8,6 +8,7 @@ This macropad runs vial-qmk and has nkrl
 source code for the macropad is available [HERE](https://github.com/backAir/Bair-s-vial-keyboards/tree/main/cuty_pad_4x3)
 Parametric CAD for the case on [ONSHAPE](https://cad.onshape.com/documents/0b492086b265dca8838a7391/w/96bef00abaaaca43687c5202/e/2352dc67a37d36e38e0d4252?renderMode=0&rightPanel=variableTablePanel&uiState=6aea2a2f8dde105fd179c739) 
 
+My discord: back_air
 
 keys can be reprogrammed using [vial.rocks](https://vial.rocks/)
 
